@@ -4,7 +4,7 @@ public class vowelsconsonants
 {
 public static void main(String []args)
 {
-String str="saveetha school of engineering";    
+String str="saveetha school of engineering ";    
 System.out.println("The String is: "+str); 
 int vcount=0,ccount=0;   
 str=str.toLowerCase();            
